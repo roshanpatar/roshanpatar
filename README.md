@@ -22,8 +22,13 @@ I thrive on creating dynamic and interactive visualizations that drive business 
 ## Skills
 - **Analytical Tools:** Power BI, Excel, Google Sheets
 - **Programming Languages:** Python, SQL, Web Scraping
-- **Databases:** MySQL, Microsoft SQL Server
+- **Databases:** MySQL, Microsoft SQL Server, PostgreSQL
 - **Other Tools:** Jupyter Notebook, VS Code
+- **Achievement:** ⭐⭐⭐⭐⭐ SQL badge on HackerRank, SQL intermediate certificate
+
+#### Soft Skills:
+- Stakeholder Management, Data Storytelling, Presentation, Project Planning, Risk Management, Reporting, Problem Solving, Open-minded, Critical thinking
+  
 
 ## Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/roshan-patar) or [Email](mailto:patarroshan2002@gmail.com).
